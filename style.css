@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    font-family: 'Tiro Bangla', serif;
+    
+}
+
+section.header {
+    background-color: beige;
+    padding: 25px;
+}
+
+header.header{
+    display: flex;
+    align-items: center;
+}
+
+header.header img {
+    width: 150;
+    height: 10vh;
+}
+
+/* header header a revoir */    
+
+nav.nav{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 700px;   
+    margin-left: 200px;
+}
+
+nav.nav li {
+    color: calc(#2b2b2b);
+}
+
+.slogan{
+    color: black;
+    font-size: 50px;
+    padding: 20px 50px;
+    font-weight: 1300;
+    font-family: 'Bungee Spice', cursive;
+font-family: 'Tiro Bangla', serif;
+}
+
