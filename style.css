@@ -1,0 +1,171 @@
+*{
+    @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Montserrat:wght@600&family=Tiro+Bangla&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Montserrat:wght@600&family=Playfair+Display:wght@600&family=Tiro+Bangla&display=swap');
+    
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    font-family: "Montserrat", sans-serif;
+    
+    
+}
+
+section.header {
+    background-color: beige;
+    padding: 25px;
+}
+
+header.header{
+    display: flex; 
+    align-items: center;
+    flex-wrap: wrap;
+    align-items: center;
+    border-bottom: 2px solid #2b2b2b;
+}
+
+.div2{
+    background: url("fond.jpg");
+}
+
+header.header img {
+    width: 150;
+    height: 10vh;
+}
+
+/* header header a revoir */
+nav.nav{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 700px;   
+    margin-left: 300px;
+    color: black;
+    
+    
+
+    
+}
+
+
+
+
+img.image1{
+    width: 80%;
+}
+
+
+.slogan{
+
+    font-size: 40px;
+
+
+    font-family: 'Bungee Spice', cursive;
+
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+
+html, body {
+    scroll-behavior: smooth;  
+ 
+  }
+
+  .produits{
+    color: calc(#2b2b2b);
+    text-decoration: none;
+    position: absolute;
+
+
+  }
+
+  .avisclients{
+    color:calc(#2b2b2b);
+    text-decoration: none;
+    position: absolute;
+
+
+  }
+
+
+.division{
+    background-color: beige;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+
+
+
+img.image2{
+    width: 500px;
+  
+    float: right;
+    background-color: beige;
+    vertical-align: auto;
+    height: 50%;
+    display: flex;
+    
+
+    
+}
+
+
+
+
+
+
+img{
+    width: 90%;
+}
+
+.ring1{
+    width: 20%;
+    vertical-align: auto;
+    background-color: white;
+    
+}
+
+h3{
+    text-align: center;
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+
+
+
+.ring2{
+    width: 30%;
+}
+
+
+.iframe{
+    background-color: beige;
+    align-items: left;
+    margin-left: auto;
+    
+    
+}
+
+section.footer{
+    background-color: beige;
+    padding: 25px;
+}
+
+h4{
+    text-align: center;
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
